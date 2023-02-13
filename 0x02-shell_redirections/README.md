@@ -12,7 +12,7 @@
 
 6- prints the third line of the file iacta
 
-7- creates a file named with special characters containing the text Holberton School ending by a new line
+7- creates a file named with special characters ending by a new line
 
 8- writes into the file ls_cwd_content the result of the command ls -la
 
